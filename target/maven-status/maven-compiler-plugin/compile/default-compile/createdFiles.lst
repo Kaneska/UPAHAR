@@ -1,0 +1,4 @@
+com\CC1\CC1_Review\model\Products.class
+com\CC1\CC1_Review\model\User.class
+com\CC1\CC1_Review\Repository\ProductsRepository.class
+com\CC1\CC1_Review\service\UserService.class
